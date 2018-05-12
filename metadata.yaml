@@ -1,0 +1,26 @@
+_repo: The-Diary-of-a-Hunter-from-the-Punjab-to-the-Karakorum-Mountains_42674
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42674-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Irby, Augustus Henry
+    gutenberg_agent_id: '41811'
+    url: http://www.gutenberg.org/2009/agents/41811
+description: ''
+gutenberg_issued: '2013-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42674'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- India'
+- !lcsh 'Irby, Augustus Henry -- Diaries'
+- !lcsh 'India -- Description and travel'
+- !lcc 'DS'
+title: The Diary of a Hunter from the Punjab to the Karakorum Mountains
+url: http://www.gutenberg.org/ebooks/42674
